@@ -133,6 +133,6 @@ def adding_to_dennis
         }
      }
 
-    programmer_hash[:dennis_ritchie][:languages][][] = "Assembley"
+    programmer_hash[:dennis_ritchie][:languages][][1] = "Assembley"
     programmer_hash
 end
